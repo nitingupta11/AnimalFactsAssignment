@@ -1,0 +1,11 @@
+{"properties": [{
+  "name": "animals.fact.url",
+  "type": "java.lang.String",
+  "description": "Animal fact URL"
+},
+{
+  "name": "animals.fact.url.method",
+  "type": "java.lang.String",
+  "description": "Animal fact method"
+}
+]}
